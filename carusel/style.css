@@ -1,0 +1,14 @@
+.carusel{
+  width: 700px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+    
+.carusel img{
+  width: 70%;
+  object-fit: contain;
+  height: 400px;
+}
